@@ -1,7 +1,7 @@
 heroes={
-"ANUB'ARAK":["apostrophe works"],
-"LI LI":["space works"],
-"DVA":["dot doesnt work"],
+"ANUB":["apostrophe works"],
+"LI-LI":["minus works"],
+"D_VA":["laagstreep work"],
 "MEI":["text works"],
 };
 
